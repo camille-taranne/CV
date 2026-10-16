@@ -6,9 +6,7 @@
     <head>
         <title>Mon CV</title>
     </head>
-    <?php 
-    echo "Bienvenue sur mon CV." ;
-    ?>
+    <h2>Bienvenue sur mon CV</h2>
 
     <?php
     if ($_GET["page"] == "accueil") {

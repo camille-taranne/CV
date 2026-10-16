@@ -14,14 +14,10 @@
         </p>
 
         <h2>Langues</h2>
-        <?php 
-        $c = "courrant";
-        $l = "légèrement";
-        echo "<p>Français (natale) : </p>". $c;
-        echo "<p>Anglais : </p>". $c;
-        echo "<p>Espagnol : </p>". $l;
+        <p>Français (natale) : courrant<br>
+        Anglais : fort<br>
+        Espagnol : légèrement</p>
 
-        ?>
         
     </body>
 </html>

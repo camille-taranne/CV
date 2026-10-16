@@ -8,14 +8,9 @@
     <body>
 
     <h2>Compétences</h2>
-    <?php 
-    $tr = "***";
-    $de = "**";
-    echo "<p>python : </p>" . $tr;
-    echo "<p>C#     : </p>" . $de;
-    echo "<p>SQL    : </p>" . $de;
-    
-    ?>
+    <p>python : ***<br>
+    C#     : <br>**<br>
+    SQL    : <br>**</p>
 
 
     <h2>Formations</h2>
