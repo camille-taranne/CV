@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: grey;
+    
+}
+
+h2 {
+    
+    background-color: grey;
+    
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 250px;
+    width: auto;
+    
+}
